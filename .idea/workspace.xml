@@ -11,422 +11,240 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdaff7e4-f1a9-40b3-be77-79d9a2a8985d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw282.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw285.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw291.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw891.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw892.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw893.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw894.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw895.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw896.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw897.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw898.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw899.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw900.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw901.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw902.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw240.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw826.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw827.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw828.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw829.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw830.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw831.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw835.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw836.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw837.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw838.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw839.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw840.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DataStructure/Acw841.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw905.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw906.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw907.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw908.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw913.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw842.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw843.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw844.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw845.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw846.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw847.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw848.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw849.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw850.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw851.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw852.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw853.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw854.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw858.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw859.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw860.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw861.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1027.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1049.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1057.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1064.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1068.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1069.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1072.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1073.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1074.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1075.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1077.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1082.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1087.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1089.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw1091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw187.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw272.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw275.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw278.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw292.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw300.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw301.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw302.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw303.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw320.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw321.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw323.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw327.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw423.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw426.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw479.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw482.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw487.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw524.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw529.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw532.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw734.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DP/Acw8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw1250.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw1252.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw1275.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw1277.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw1282.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw1285.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw237.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw239.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw241.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw243.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw244.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw245.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw246.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw247.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw253.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw255.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw256.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/DataStruture/Acw830.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1076.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1097.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1098.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw1118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw165.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw166.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw168.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw173.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw175.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw179.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw180.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw181.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw188.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/Search/Acw190.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/ACW1165.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1126.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1140.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1174.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1175.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1183.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1184.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1185.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1191.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw1192.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw257.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw340.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw341.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw342.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw343.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw345.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw346.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw352.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw356.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw361.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw362.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw367.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw368.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw372.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw376.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw378.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw379.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw383.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw396.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw456.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw903.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw904.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/Acw920.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedProblem/graph/aCW1148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStruture/Acw830.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/Acw1076.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/Acw1100.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/Acw173.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/Acw188.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/Acw844.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1010.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1012.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1013.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1014.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1015.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1016.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1017.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1019.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1020.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1021.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1022.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1023.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1024.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1027.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1073.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1074.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1077.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1081.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1082.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1083.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1084.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1086.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1087.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1088.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1089.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1090.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1091.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1097.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1098.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1100.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1106.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1107.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing1112.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing165.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing166.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing167.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing168.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing170.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing171.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing173.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing175.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing178.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing179.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing181.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing187.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing188.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing190.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing272.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing278.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing300.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing301.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing302.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing303.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing423.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing426.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing482.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing532.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing734.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/advanced/acwing8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing104.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing125.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing143.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing148.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing154.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing204.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing240.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing282.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing285.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing291.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing338.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing51.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing785.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing786.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing787.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing788.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing789.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing790.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing791.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing792.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing793.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing794.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing795.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing796.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing797.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing798.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing799.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing800.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing801.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing802.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing803.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing826.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing827.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing828.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing831.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing835.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing836.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing837.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing838.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing839.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing840.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing841.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing842.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing843.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing844.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing845.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing846.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing847.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing848.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing849.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing850.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing851.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing852.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing853.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing854.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing858.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing859.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing860.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing861.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing866.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing867.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing868.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing869.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing870.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing871.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing872.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing873.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing874.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing875.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing876.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing877.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing878.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing883.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing884.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing885.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing886.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing887.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing888.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing889.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing890.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing891.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing892.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing893.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing895.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing896.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing897.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing898.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing899.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing900.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing902.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing905.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing906.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing907.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing908.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing91.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/Acwing913.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/basic/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/hengsheng/Foo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/hengsheng/HasStatic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/hengsheng/LongestPlat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/hengsheng/ReadSrcText.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/hengsheng/X.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/hengsheng/Y.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/hengsheng/Z.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/hengsheng/demo5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/hengsheng/demo51.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/offer/Acw13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/BasicProblem/Acw1273.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/BasicProblem/Acw802.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/BasicProblem/Acw803.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/BasicProblem/t.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/Search/Acw1076.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/Search/Acw1100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/Search/Acw188.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/Search/Acw844.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1010.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1012.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1013.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1014.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1015.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1016.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1017.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1018.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1019.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1020.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1021.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1022.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1023.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1024.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1027.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1073.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1074.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1077.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1081.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1082.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1083.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1084.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1086.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1087.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1088.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1089.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1090.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1091.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1097.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1098.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1106.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1107.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing1112.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing165.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing166.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing167.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing168.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing170.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing171.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing173.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing175.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing178.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing179.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing181.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing187.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing188.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing190.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing272.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing278.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing300.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing301.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing302.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing303.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing423.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing426.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing482.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing532.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing734.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/advanced/acwing8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing104.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing125.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing143.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing148.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing154.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing204.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing240.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing282.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing285.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing291.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing338.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing785.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing786.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing787.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing788.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing789.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing790.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing791.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing792.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing793.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing794.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing795.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing796.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing797.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing798.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing799.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing800.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing801.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing802.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing803.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing826.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing827.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing828.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing831.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing835.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing836.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing837.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing838.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing839.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing840.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing841.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing842.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing843.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing844.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing845.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing846.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing847.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing848.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing849.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing850.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing851.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing852.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing853.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing854.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing858.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing859.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing860.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing861.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing866.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing867.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing868.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing869.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing870.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing871.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing872.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing873.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing874.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing875.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing876.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing877.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing878.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing883.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing884.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing885.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing886.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing887.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing888.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing889.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing890.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing891.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing892.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing893.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing895.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing896.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing897.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing898.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing899.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing900.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing902.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing905.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing906.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing907.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing908.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing91.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/Acwing913.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/basic/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/hengsheng/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/hengsheng/HasStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/hengsheng/LongestPlat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/hengsheng/ReadSrcText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/hengsheng/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/hengsheng/Y.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/hengsheng/Z.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/hengsheng/demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/hengsheng/demo51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acwing/main/offer/Acw13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw285.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw285.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw291.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw291.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw892.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw892.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw895.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw895.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw896.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw896.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw897.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw897.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw898.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw898.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw899.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw899.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw900.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw900.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw901.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw901.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw902.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw902.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/DP/Acw91.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/DP/Acw91.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw148.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw148.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw905.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw905.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw906.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw906.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw907.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw907.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw908.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw908.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw913.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/greedy/Acw913.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw842.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw842.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw843.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw843.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw844.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw844.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw845.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw845.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw846.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw846.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw847.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw847.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw848.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw848.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw849.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw849.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw850.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw850.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw851.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw851.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw852.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw852.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw853.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw853.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw854.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw854.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw858.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw858.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw859.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw859.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw860.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw860.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblem/search/Acw861.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblem/search/Acw861.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -439,6 +257,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -472,7 +291,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm--Course/src/main/Chapter2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -481,52 +300,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.Acw801">
-    <configuration name="Acw791" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicProblem.AddSub.Acw791" />
-      <module name="acwing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicProblem.AddSub.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Acw792" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicProblem.AddSub.Acw792" />
-      <module name="acwing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicProblem.AddSub.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Acw799" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicProblem.TwoPointer.Acw799" />
-      <module name="acwing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicProblem.TwoPointer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Acw895">
     <configuration name="Acw801" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicProblem.Bit.Acw801" />
       <module name="acwing" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BasicProblem.Bit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Acw895" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicProblem.DP.Acw895" />
+      <module name="acwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicProblem.DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -547,13 +340,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Acw913" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicProblem.greedy.Acw913" />
+      <module name="acwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicProblem.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="acwing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Acw895" />
+        <item itemvalue="Application.Acw913" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Acw801" />
         <item itemvalue="Application.Acw90" />
-        <item itemvalue="Application.Acw799" />
-        <item itemvalue="Application.Acw792" />
-        <item itemvalue="Application.Acw791" />
       </list>
     </recent_temporary>
   </component>
@@ -583,7 +396,12 @@
       <workItem from="1584583958672" duration="7720000" />
       <workItem from="1584610122902" duration="1836000" />
       <workItem from="1584692493857" duration="343000" />
-      <workItem from="1589272687442" duration="3094000" />
+      <workItem from="1589272687442" duration="4579000" />
+      <workItem from="1589284523018" duration="2207000" />
+      <workItem from="1589533981056" duration="49000" />
+      <workItem from="1592230556266" duration="1458000" />
+      <workItem from="1592232352516" duration="2634000" />
+      <workItem from="1592269485783" duration="5604000" />
     </task>
     <servers />
   </component>
@@ -600,15 +418,40 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1592232745709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592232745709" />
     <state x="933" y="170" key="FileChooserDialogImpl" timestamp="1589274917433">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589274917433" />
+    <state width="723" height="163" key="GridCell.Tab.0.bottom" timestamp="1592275125258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592275125258" />
+    <state width="723" height="163" key="GridCell.Tab.0.center" timestamp="1592275125258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592275125258" />
+    <state width="723" height="163" key="GridCell.Tab.0.left" timestamp="1592275125258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592275125258" />
+    <state width="723" height="163" key="GridCell.Tab.0.right" timestamp="1592275125258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592275125258" />
+    <state x="356" y="22" key="new project wizard" timestamp="1589534028248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589534028248" />
     <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589275549634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
